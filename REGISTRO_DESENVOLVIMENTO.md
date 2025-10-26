@@ -20,3 +20,6 @@ Relato cronológico resumido de como o backend evoluiu.
    - Tornei obrigatório o `_skipAuthRefresh` para chamadas críticas a fim de evitar loops de refresh.
 
 
+5. **Uso transparente de IA**
+   - Registrei o apoio pontual de IA (utilizado o CODEX) em cada fase (planejamento, modelagem, REST e ajustes), sempre como sparring para validar ideias, revisar textos e levantar riscos.
+   - Mantive as criações das decisõees técnicas e do código, tratando as sugestões da IA como referências e ajustando tudo ao contexto do projeto.
