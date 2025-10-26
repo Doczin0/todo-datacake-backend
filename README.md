@@ -17,7 +17,7 @@ API REST usada pelo app To Do List. Foi construída em Django + DRF, com autenti
    cd backend
    cp .env.example .env
    ```
-   Ajuste `SECRET_KEY`, `ALLOWED_HOSTS` (incluindo seu IP/localhost) e, se for expor a API, configure `CORS_ALLOWED_ORIGINS`.
+   Ajuste as partes: `SECRET_KEY`, `ALLOWED_HOSTS` (incluindo seu IP/localhost) e, se for expor a API, configure `CORS_ALLOWED_ORIGINS`.
 
 2. **Criar o ambiente virtual e instalar dependências**
    ```bash
