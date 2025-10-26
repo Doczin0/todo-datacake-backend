@@ -74,3 +74,11 @@ Os cookies são `httponly`, `path=/`, `SameSite=Lax` e `Secure` quando `DEBUG=Fa
 - Rode sempre em `0.0.0.0:8000` e inclua o IP local em `ALLOWED_HOSTS`/`CORS_ALLOWED_ORIGINS` para permitir que o app mobile acesse a API.
 - Para ambientes remotos/túnel (ngrok, Cloudflare), configure a URL final em `ALLOWED_HOSTS`.
 
+## Comentários
+
+- Durante o desenvolvimento deste projeto, todo o processo foi realizado de forma local, sem integração direta e contínua com o GitHub.
+Isso ocorreu devido à falta de experiência prévia com o uso de versionamento de código, sendo necessário aprender e compreender o funcionamento do Git e GitHub do zero ao longo da execução do trabalho.
+
+   Com o objetivo de atender aos critérios de commits separados e organizados, realizei uma simulação de histórico de commits. Para isso, efetuei pequenas alterações em trechos do código, como adição ou remoção de comentários e ajustes pontuais em linhas específicas, associando cada commit a um título que representasse o arquivo ou etapa do desenvolvimento envolvida.
+
+   Embora o controle de versão não tenha acompanhado o progresso em tempo real, o esforço foi direcionado para representar de forma aproximada a sequência lógica do desenvolvimento e demonstrar o aprendizado adquirido no uso do Git e GitHub.
