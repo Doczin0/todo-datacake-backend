@@ -19,7 +19,7 @@ from .serializers import RegisterSerializer, TaskSerializer
 User = get_user_model()
 
 
-# -------- TASKS --------
+
 class TaskViewSet(viewsets.ModelViewSet):
     serializer_class = TaskSerializer
     permission_classes = [permissions.IsAuthenticated]
@@ -92,7 +92,7 @@ def _pull_latest_code(user: User) -> EmailVerificationCode | None:
     return EmailVerificationCode.objects.filter(user=user).first()
 
 
-# -------- AUTH: REGISTER / VERIFY / RESEND --------
+
 class RegisterView(APIView):
     permission_classes = [permissions.AllowAny]
 
@@ -206,7 +206,7 @@ class ResendCodeView(APIView):
         )
 
 
-# -------- LOGIN (resolve e-mail para username, se necessário) --------
+
 class ResolveUsernameView(APIView):
     permission_classes = [permissions.AllowAny]
 
@@ -238,7 +238,7 @@ class ResolveUsernameView(APIView):
         return Response({"username": identifier}, status=status.HTTP_200_OK)
 
 
-# -------- PASSWORD RESET --------
+
 class RequestPasswordResetView(APIView):
     permission_classes = [permissions.AllowAny]
 

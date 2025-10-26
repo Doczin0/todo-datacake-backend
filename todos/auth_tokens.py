@@ -101,7 +101,7 @@ class LogoutView(APIView):
     permission_classes = [permissions.IsAuthenticated]
 
     def post(self, request):
-        # JWT stateless logout: client simply discards the stored tokens
+    
         return Response({"detail": "Logout efetuado. Tokens revogados apenas no cliente."}, status=200)
 
 
