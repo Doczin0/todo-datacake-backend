@@ -72,3 +72,4 @@ class EmailVerificationCode(models.Model):
     @staticmethod
     def generate_code():
         return f"{secrets.randbelow(900000) + 100000}"
+

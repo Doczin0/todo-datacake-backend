@@ -29,4 +29,3 @@ urlpatterns = [
     path("auth/password/confirm/", ConfirmPasswordResetView.as_view(), name="password-confirm"),
     path("health/", HealthView.as_view(), name="health"),
 ]
-
