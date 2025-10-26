@@ -1,0 +1,376 @@
+[INFO] 2025-10-22 15:57:57,621 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 15:59:00,674 todos.views: Cadastro criado (inativo) e e-mail de verificação enviado para veceya8863@nrlord.com
+[WARNING] 2025-10-22 15:59:16,780 django.request: Unauthorized: /api/auth/token/
+[INFO] 2025-10-22 15:59:59,475 todos.views: Task criada por davi78: 3
+[INFO] 2025-10-22 16:00:13,960 todos.views: Task 3 status=concluida
+[INFO] 2025-10-22 16:00:14,802 todos.views: Task 3 status=pendente
+[INFO] 2025-10-22 16:00:17,105 todos.views: Task 3 status=concluida
+[INFO] 2025-10-22 16:01:08,790 todos.views: Cadastro criado (inativo) e e-mail de verificação enviado para davi.grecco2015@gmail.com
+[INFO] 2025-10-22 16:07:31,559 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\server\settings.py changed, reloading.
+[INFO] 2025-10-22 16:07:32,629 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:08:32,934 todos.views: Usuário DAVI10 verificado e ativado.
+[INFO] 2025-10-22 16:08:32,944 todos.views: Usuário DAVI10 verificado e ativado.
+[WARNING] 2025-10-22 16:08:41,446 django.request: Unauthorized: /api/auth/token/
+[WARNING] 2025-10-22 16:12:09,205 django.request: Bad Request: /api/auth/register/
+[INFO] 2025-10-22 16:12:16,364 todos.views: Cadastro criado (inativo) e e-mail de verificação enviado para faizaosdosplays123@gmail.com
+[INFO] 2025-10-22 16:12:43,005 todos.views: Usuário Lucas verificado e ativado.
+[INFO] 2025-10-22 16:12:43,017 todos.views: Usuário Lucas verificado e ativado.
+[INFO] 2025-10-22 16:18:53,311 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\serializers.py changed, reloading.
+[INFO] 2025-10-22 16:18:54,112 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:24:37,195 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:26:36,607 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\models.py changed, reloading.
+[INFO] 2025-10-22 16:26:37,611 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:27:00,528 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\serializers.py changed, reloading.
+[INFO] 2025-10-22 16:27:01,411 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:27:07,345 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\admin.py changed, reloading.
+[INFO] 2025-10-22 16:27:08,196 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:27:16,300 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\views.py changed, reloading.
+[INFO] 2025-10-22 16:27:17,177 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:27:25,225 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\views.py changed, reloading.
+[INFO] 2025-10-22 16:27:26,121 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:27:29,891 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\views.py changed, reloading.
+[INFO] 2025-10-22 16:27:30,625 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:27:43,969 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\urls.py changed, reloading.
+[INFO] 2025-10-22 16:27:44,829 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:30:45,944 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:31:24,281 django.utils.autoreload: Watching for file changes with StatReloader
+[WARNING] 2025-10-22 16:31:46,941 django.request: Unauthorized: /api/tasks/
+[WARNING] 2025-10-22 16:31:46,945 django.request: Unauthorized: /api/tasks/
+[WARNING] 2025-10-22 16:33:07,194 django.request: Bad Request: /api/auth/register/
+[WARNING] 2025-10-22 16:34:48,635 django.request: Not Found: /api/auth/token/
+[WARNING] 2025-10-22 16:35:22,879 django.request: Not Found: /api/auth/token/
+[WARNING] 2025-10-22 16:35:27,916 django.request: Not Found: /api/auth/token/
+[WARNING] 2025-10-22 16:36:07,695 django.request: Not Found: /api/auth/token/
+[WARNING] 2025-10-22 16:36:59,290 django.request: Not Found: /api/auth/token/
+[WARNING] 2025-10-22 16:37:04,071 django.request: Not Found: /api/auth/token/
+[WARNING] 2025-10-22 16:37:14,539 django.request: Not Found: /api/auth/token/
+[WARNING] 2025-10-22 16:37:19,354 django.request: Not Found: /api/auth/token/
+[WARNING] 2025-10-22 16:38:26,239 django.request: Not Found: /api/auth/token/
+[WARNING] 2025-10-22 16:38:33,160 django.request: Not Found: /api/auth/token/
+[INFO] 2025-10-22 16:42:44,105 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\server\urls.py changed, reloading.
+[INFO] 2025-10-22 16:42:44,932 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:43:24,056 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\views.py changed, reloading.
+[INFO] 2025-10-22 16:43:24,784 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:46:03,632 django.utils.autoreload: Watching for file changes with StatReloader
+[WARNING] 2025-10-22 16:47:39,986 django.request: Unauthorized: /api/auth/token/
+[WARNING] 2025-10-22 16:47:54,325 django.request: Unauthorized: /api/auth/token/
+[INFO] 2025-10-22 16:49:35,140 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\server\urls.py changed, reloading.
+[INFO] 2025-10-22 16:49:35,912 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:49:49,192 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\server\urls.py changed, reloading.
+[INFO] 2025-10-22 16:49:49,930 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:49:56,860 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\urls.py changed, reloading.
+[INFO] 2025-10-22 16:49:57,712 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:50:18,569 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\server\settings.py changed, reloading.
+[INFO] 2025-10-22 16:50:19,258 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:52:13,141 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\views.py changed, reloading.
+[INFO] 2025-10-22 16:52:14,068 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 16:52:41,583 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\views.py changed, reloading.
+[INFO] 2025-10-22 16:52:42,317 django.utils.autoreload: Watching for file changes with StatReloader
+[WARNING] 2025-10-22 16:53:44,249 django.request: Bad Request: /api/auth/password/reset/
+[WARNING] 2025-10-22 16:53:58,624 django.request: Bad Request: /api/auth/password/reset/
+[ERROR] 2025-10-22 16:54:07,447 django.request: Internal Server Error: /api/auth/password/reset/
+[INFO] 2025-10-22 17:01:46,352 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\models.py changed, reloading.
+[INFO] 2025-10-22 17:01:47,216 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 17:13:52,851 django.utils.autoreload: Watching for file changes with StatReloader
+[ERROR] 2025-10-22 17:14:22,334 django.request: Internal Server Error: /api/auth/password/reset/
+Traceback (most recent call last):
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\davig\ProjetoDataCake\backend\todos\views.py", line 128, in post
+    send_mail(
+    ~~~~~~~~~^
+        "Redefinição de senha - DataCake",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        fail_silently=False,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\__init__.py", line 92, in send_mail
+    return mail.send()
+           ~~~~~~~~~^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\message.py", line 307, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 136, in send_messages
+    sent = self._send(message)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 155, in _send
+    self.connection.sendmail(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        from_email, recipients, message.as_bytes(linesep="\r\n")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 890, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. For more information, go to\n5.7.0  https://support.google.com/accounts/troubleshooter/2402620. 98e67ed59e1d1-33fb0144c55sm28943a91.10 - gsmtp', 'no-reply@datacake.local')
+[ERROR] 2025-10-22 17:14:23,759 django.request: Internal Server Error: /api/auth/password/reset/
+Traceback (most recent call last):
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\davig\ProjetoDataCake\backend\todos\views.py", line 128, in post
+    send_mail(
+    ~~~~~~~~~^
+        "Redefinição de senha - DataCake",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        fail_silently=False,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\__init__.py", line 92, in send_mail
+    return mail.send()
+           ~~~~~~~~~^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\message.py", line 307, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 136, in send_messages
+    sent = self._send(message)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 155, in _send
+    self.connection.sendmail(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        from_email, recipients, message.as_bytes(linesep="\r\n")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 890, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. For more information, go to\n5.7.0  https://support.google.com/accounts/troubleshooter/2402620. 41be03b00d2f7-b6a76b6ac0bsm13816995a12.37 - gsmtp', 'no-reply@datacake.local')
+[ERROR] 2025-10-22 17:14:36,256 django.request: Internal Server Error: /api/auth/password/reset/
+Traceback (most recent call last):
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\davig\ProjetoDataCake\backend\todos\views.py", line 128, in post
+    send_mail(
+    ~~~~~~~~~^
+        "Redefinição de senha - DataCake",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        fail_silently=False,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\__init__.py", line 92, in send_mail
+    return mail.send()
+           ~~~~~~~~~^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\message.py", line 307, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 136, in send_messages
+    sent = self._send(message)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 155, in _send
+    self.connection.sendmail(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        from_email, recipients, message.as_bytes(linesep="\r\n")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 890, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. For more information, go to\n5.7.0  https://support.google.com/accounts/troubleshooter/2402620. 41be03b00d2f7-b6a7668fb57sm13673608a12.17 - gsmtp', 'no-reply@datacake.local')
+[WARNING] 2025-10-22 17:15:19,187 django.request: Bad Request: /api/auth/register/
+[WARNING] 2025-10-22 17:15:32,132 django.request: Bad Request: /api/auth/register/
+[WARNING] 2025-10-22 17:15:35,547 django.request: Bad Request: /api/auth/register/
+[ERROR] 2025-10-22 17:16:04,598 django.request: Internal Server Error: /api/auth/password/reset/
+Traceback (most recent call last):
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\davig\ProjetoDataCake\backend\todos\views.py", line 128, in post
+    send_mail(
+    ~~~~~~~~~^
+        "Redefinição de senha - DataCake",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        fail_silently=False,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\__init__.py", line 92, in send_mail
+    return mail.send()
+           ~~~~~~~~~^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\message.py", line 307, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 136, in send_messages
+    sent = self._send(message)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 155, in _send
+    self.connection.sendmail(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        from_email, recipients, message.as_bytes(linesep="\r\n")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 890, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. For more information, go to\n5.7.0  https://support.google.com/accounts/troubleshooter/2402620. d9443c01a7336-292471fd9e8sm146919125ad.85 - gsmtp', 'no-reply@datacake.local')
+[ERROR] 2025-10-22 17:16:04,614 django.request: Internal Server Error: /api/auth/password/reset/
+Traceback (most recent call last):
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\davig\ProjetoDataCake\backend\todos\views.py", line 128, in post
+    send_mail(
+    ~~~~~~~~~^
+        "Redefinição de senha - DataCake",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        fail_silently=False,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\__init__.py", line 92, in send_mail
+    return mail.send()
+           ~~~~~~~~~^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\message.py", line 307, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 136, in send_messages
+    sent = self._send(message)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 155, in _send
+    self.connection.sendmail(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        from_email, recipients, message.as_bytes(linesep="\r\n")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 890, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. For more information, go to\n5.7.0  https://support.google.com/accounts/troubleshooter/2402620. 98e67ed59e1d1-33dfb7f8310sm2854003a91.5 - gsmtp', 'no-reply@datacake.local')
+[ERROR] 2025-10-22 17:16:05,868 django.request: Internal Server Error: /api/auth/password/reset/
+Traceback (most recent call last):
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\davig\ProjetoDataCake\backend\todos\views.py", line 128, in post
+    send_mail(
+    ~~~~~~~~~^
+        "Redefinição de senha - DataCake",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        fail_silently=False,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\__init__.py", line 92, in send_mail
+    return mail.send()
+           ~~~~~~~~~^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\message.py", line 307, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 136, in send_messages
+    sent = self._send(message)
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 155, in _send
+    self.connection.sendmail(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        from_email, recipients, message.as_bytes(linesep="\r\n")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\davig\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 890, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. For more information, go to\n5.7.0  https://support.google.com/accounts/troubleshooter/2402620. d9443c01a7336-292471d5a9asm146585325ad.71 - gsmtp', 'no-reply@datacake.local')
+[WARNING] 2025-10-22 17:16:52,208 django.request: Bad Request: /api/auth/register/
+[WARNING] 2025-10-22 17:16:57,560 django.request: Bad Request: /api/auth/register/
+[INFO] 2025-10-22 17:22:40,488 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\server\settings.py changed, reloading.
+[INFO] 2025-10-22 17:22:41,474 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 17:22:59,280 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\views.py changed, reloading.
+[INFO] 2025-10-22 17:23:00,198 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2025-10-22 17:23:07,254 django.utils.autoreload: C:\Users\davig\ProjetoDataCake\backend\todos\urls.py changed, reloading.
+[INFO] 2025-10-22 17:23:07,976 django.utils.autoreload: Watching for file changes with StatReloader
+[WARNING] 2025-10-22 17:23:17,445 django.request: Bad Request: /api/auth/register/
+[WARNING] 2025-10-22 17:23:18,470 django.request: Bad Request: /api/auth/register/
+[WARNING] 2025-10-22 17:23:44,117 django.request: Bad Request: /api/auth/register/
