@@ -50,9 +50,9 @@ API REST usada pelo app To Do List. Foi construída em Django + DRF, com autenti
 | POST | `/api/auth/token/refresh/` | Renova o access token usando o cookie de refresh |
 | POST | `/api/auth/logout/` | Limpa cookies de acesso e refresh |
 | GET  | `/api/auth/me/` | Retorna o perfil autenticado |
-| CRUD | `/api/tasks/` | CRUD completo de tarefas (filtros, checklist etc.) |
+| CRUD | `/api/tasks/` | CRUD completo de tarefas (filtros, checklist etc.) 
 
-Os cookies são `httponly`, `path=/`, `SameSite=Lax` e `Secure` quando `DEBUG=False`. O middleware `CookieToAuthorizationMiddleware` injeta `Authorization: Bearer` em toda requisição que chega com `access_token` válido.
+Após realizar cadastro ou recuperar senha, o número do token aparecerá via terminal com uma numeração de seis digitos. Basta copiar esta numeração e inserir no respectivo campo.
 
 ## Comandos úteis
 
